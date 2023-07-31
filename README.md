@@ -1,1 +1,1 @@
-# earh-moon-sun
+# sun-earth-moon
